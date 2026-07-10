@@ -1,4 +1,4 @@
-# Bayesian Networks & Hidden Markov Models – Mini Capstone GWP2 (MScFE 660)
+# Bayesian Networks & Hidden Markov Models – Mini Capstone 2
 **Risk Management** 
 
 Second part of the mini-capstone series focused on **Probabilistic Graphical Models for Crude Oil Price Forecasting**.
